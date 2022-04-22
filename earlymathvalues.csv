@@ -1,0 +1,27 @@
+al,band,n,prof,color
+Grade 1 BNWS,0-2,110,0,red
+Grade 1 BNWS,3,86,0,yellow
+Grade 1 BNWS,4-5,141,1,green
+Grade 1 BNWS,Unknown,35,,gray
+Grade 1 FNWS,0-4,181,0,red
+Grade 1 FNWS,5,158,1,green
+Grade 1 FNWS,Unknown,33,,gray
+Grade 1 Number ID,0-1,74,0,red
+Grade 1 Number ID,2,53,0,yellow
+Grade 1 Number ID,3,124,1,green
+Grade 1 Number ID,4-5,87,1,blue
+Grade 1 Number ID,Unknown,34,,gray
+Grade 2 Structuring,0-2,121,0,red
+Grade 2 Structuring,3,52,0,yellow
+Grade 2 Structuring,4,61,1,green
+Grade 2 Structuring,5-7,108,1,blue
+Grade 2 Structuring,Unknown,28,,gray
+Kindergarten FNWS,0-2,101,0,red
+Kindergarten FNWS,3,82,0,yellow
+Kindergarten FNWS,4,66,1,green
+Kindergarten FNWS,5,36,1,blue
+Kindergarten FNWS,Unknown,23,,gray
+Kindergarten Number ID,0,45,0,red
+Kindergarten Number ID,1-2,167,1,green
+Kindergarten Number ID,3-5,73,1,blue
+Kindergarten Number ID,Unknown,23,,gray
